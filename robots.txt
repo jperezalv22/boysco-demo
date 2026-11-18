@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Demo: cuando sea la tienda real, cambiar a Allow y agregar Sitemap: https://<dominio>/sitemap.xml
